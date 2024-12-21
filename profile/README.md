@@ -1,13 +1,12 @@
-### Hi there 👋
+### Aye Goodday 👋
 
-I'm Jan, I'm an allround passionate coder, languages I work most with are typescript/javascript and Phyton.
-Fan of Nuxtjs and vuetify. Also big fan of Home assistant and unifi ❤️
+Created this repo as start of the Dotinga Empire 🥇
 
 🔭 I’m currently still working on ... Automating and deploying via ansible
 
-🌱 I’m currently learning ... ansible, ssl, certbot, docker, yaml, haos
+🌱 Currently busy with ansible, ssl, certbot, docker, yaml, haos, constantly improving on ts, python skills
 
-⚡ Fun fact: ... still trying to invent myself
+⚡ Fun fact: ... > /dev/
 
 🤔 User
 
